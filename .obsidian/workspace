@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "95be0d2d81161d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bbc242978d337bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-08-30.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b1e1df7df137420",
+    "type": "split",
+    "children": [
+      {
+        "id": "253ebd7aa124ac79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ffcf78daac20d46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ef5c4e76cb95c2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ce328d55a2baf10",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "1fd0bf4f2ca838e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3c2a7e80d38d30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2255be437bbd5d77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-08-30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31c51bfa1c233974",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-08-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34e849bbd5d80ef0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84208cc81d096927",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-08-30.md"
+              }
+            }
+          },
+          {
+            "id": "43af4bee612cc672",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2bbc242978d337bb",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Sieve of Eratosthenes.md",
+    "DFS.md",
+    "INDEX.md",
+    "Drawing 2022-08-30 21.32.12.excalidraw.md",
+    "FAQ.md",
+    "Knapsack Problem.md",
+    "attachments/Sieve_of_Eratosthenes_animation.gif",
+    "2022-08-28.md",
+    "Excalidraw/Drawing 2022-08-28 01.05.54.excalidraw.md"
+  ]
+}

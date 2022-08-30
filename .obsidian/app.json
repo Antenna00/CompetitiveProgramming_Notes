@@ -1,0 +1,17 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "ja",
+    "en-GB"
+  ],
+  "spellcheck": true,
+  "foldIndent": true,
+  "defaultViewMode": "source"
+}
