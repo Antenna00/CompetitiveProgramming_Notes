@@ -4,7 +4,8 @@
 Premise: 
 
 		Input: double array
-		Usage: Find the number of vertically, horizontally and diagnally connected group from given matrix 
+		Usage: Find the number of vertically, horizontally and diagnally connected
+		group from given matrix 
 
 Overall Process:
 Prepare boolean double arrays to manage this algorithm boolean double array that has same width and height of original given double array that shows which node you have already visited. 
